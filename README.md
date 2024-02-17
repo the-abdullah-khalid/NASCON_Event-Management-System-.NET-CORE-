@@ -1,0 +1,2 @@
+# NASCON_Event-Management-System(.NET CORE)
+ Description for the repository "NASCON_Event-Management-System(.NET CORE)":  This repository contains the source code and files for the NASCON Event Management System developed using .NET Core framework. The system facilitates efficient management of events, including registration, scheduling, attendee management, and resource allocation. Powered by .NET Core, the application ensures scalability, reliability, and cross-platform compatibility, enabling seamless deployment across various environments.
